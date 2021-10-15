@@ -4,4 +4,4 @@
 # fail fast
 set -e
 
-apt-get -y upgrade
+sudo apt-get -y upgrade
